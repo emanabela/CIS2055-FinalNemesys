@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emana\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\Nemesys.csproj": {}
+    "C:\\Users\\etien\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\Nemesys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emana\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\Nemesys.csproj": {
+    "C:\\Users\\etien\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\Nemesys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emana\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\Nemesys.csproj",
+        "projectUniqueName": "C:\\Users\\etien\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\Nemesys.csproj",
         "projectName": "Nemesys",
-        "projectPath": "C:\\Users\\emana\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\Nemesys.csproj",
-        "packagesPath": "C:\\Users\\emana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emana\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\obj\\",
+        "projectPath": "C:\\Users\\etien\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\Nemesys.csproj",
+        "packagesPath": "C:\\Users\\etien\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\etien\\source\\repos\\CIS2055-FinalNemesys\\Nemesys\\Nemesys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\emana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\etien\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

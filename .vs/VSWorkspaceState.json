@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Nemesys",
+    "\\Nemesys\\Nemesys"
   ],
+  "SelectedNode": "\\Nemesys\\Nemesys.sln",
   "PreviewInSolutionExplorer": false
 }
